@@ -1,10 +1,11 @@
 # Hi 👋 I'm Jatin (@yuno) ❄️
 
-<div align="center" style="position: relative; width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; overflow: hidden;">
-  <img src="https://i.imgur.com/your-banner-image.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.9;" alt="Banner" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="400px" alt="Discord Status" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
-  </div>
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/62/0b/9d/620b9d4f4bd8dee092fa67a96864d647.jpg" width="100%" alt="Banner" />
+</div>
+
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="50%" alt="Discord Status" />
 </div>
 
 ---
