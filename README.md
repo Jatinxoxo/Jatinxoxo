@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jatin (/jatinxoxo) ❄️
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="400" alt="Discord Status" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="100%" alt="Discord Status" />
 </div>
 
 ---
