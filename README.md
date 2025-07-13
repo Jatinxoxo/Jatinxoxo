@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jatin (/jatinxoxo) ❄️
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="400" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/1102123627438153738" width="400" alt="Discord Status" />
 </div>
 
 ---
@@ -38,7 +38,32 @@
 
 ## Pinned
 
-*Pin your favorite repositories from your profile settings*
+<div align="center">
+  <a href="https://github.com/jatinxoxo/CodeReviewer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=CodeReviewer&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="CodeReviewer" />
+  </a>
+  <a href="https://github.com/jatinxoxo/EMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=EMS&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="EMS" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jatinxoxo/Image-Enhancer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=Image-Enhancer&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Image-Enhancer" />
+  </a>
+  <a href="https://github.com/jatinxoxo/Mini-Posting-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=Mini-Posting-app&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Mini-Posting-app" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/jatinxoxo/ThirtySix-Studios-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=ThirtySix-Studios-Clone&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="ThirtySix-Studios-Clone" />
+  </a>
+  <a href="https://github.com/jatinxoxo/Ayame-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinxoxo&repo=Ayame-Bot&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Ayame-Bot" />
+  </a>
+</div>
 
 ---
 
