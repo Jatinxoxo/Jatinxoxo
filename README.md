@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/1200x/62/0b/9d/620b9d4f4bd8dee092fa67a96864d647.jpg" width="100%" alt="Banner" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: -150px; position: relative; z-index: 10;">
   <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="50%" alt="Discord Status" />
 </div>
 
