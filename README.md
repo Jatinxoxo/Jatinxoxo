@@ -4,8 +4,12 @@
   <img src="https://i.pinimg.com/1200x/62/0b/9d/620b9d4f4bd8dee092fa67a96864d647.jpg" width="100%" alt="Banner" />
 </div>
 
-<div align="center" style="margin-top: -150px; position: relative; z-index: 10;">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="50%" alt="Discord Status" />
+## 🎮 Live Discord Presence
+
+<div align="center">
+  <a href="https://discord-card.vercel.app" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738?theme=dark&animated=true&borderRadius=25px" alt="Live Discord Presence" />
+  </a>
 </div>
 
 ---
@@ -87,34 +91,13 @@ Frontend: [Next.js, React.js, TailwindCSS, HTML5, CSS3]
 Backend: [Node.js, Express, MongoDB, Firebase]
 Design: [Figma, Photoshop, Illustrator]
 Other: [Discord.js, GSAP, Framer Motion]
-```
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinxoxo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jatinxoxo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinxoxo&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinxoxo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jatinxoxo&style=flat-square&color=58A6FF" alt="Profile Views" /> </div>
+54 contributions in the last year
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinxoxo&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
+"Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinxoxo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinxoxo&style=flat-square&color=58A6FF" alt="Profile Views" />
-</div>
-
----
-
-**54 contributions in the last year**
-
-<div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
+</div> ```
