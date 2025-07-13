@@ -1,16 +1,16 @@
 # Hi 👋 I'm Jatin (@yuno) ❄️
 
-<div align="center">
+<p align="center">
   <img src="https://i.pinimg.com/1200x/62/0b/9d/620b9d4f4bd8dee092fa67a96864d647.jpg" width="100%" alt="Banner" />
-</div>
+</p>
 
 ## 🎮 Live Discord Presence
 
-<div align="center">
+<p align="center">
   <a href="https://discord-card-eight.vercel.app" target="_blank">
     <img src="https://discord-card-eight.vercel.app/api/card" width="480px" alt="Live Discord Presence Card" />
   </a>
-</div>
+</p>
 
 ---
 
