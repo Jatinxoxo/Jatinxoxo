@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin (jatinxoxo)</h1>
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="90%" alt="Discord Status" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="90%" alt="Discord Status (Cached)" />
 </p>
 
 ---
