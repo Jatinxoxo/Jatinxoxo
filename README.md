@@ -1,40 +1,91 @@
-<h1 align="center">Hi 👋, I'm Jatin (jatinxoxo)</h1>
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="90%" alt="Discord Status (Cached)" />
-</p>
+# Hi 👋 I'm Jatin (/jatinxoxo) ❄️
+
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738" width="400" alt="Discord Status" />
+</div>
 
 ---
 
-🎯 **Creative UI/UX + Full Stack Developer**  
-🎨 UI wizard by day, anime binge-watcher by night.  
-💼 Bringing designs to life with Next.js, TailwindCSS, and React.  
-📈 Sometimes building cool bots & dashboards.
-
----
-
-### 🚀 Let’s Connect
-
-<p align="center">
-  <a href="https://www.behance.net/xdemongraphicz">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+<div align="center">
+  <a href="https://yunogg.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/🎯-PORTFOLIO-1769ff?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:jatinguptapvt@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/📧-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jatin-gupta-34b5b7226/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/💼-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/svm7yjkeBp">
-    <img alt="Discord" src="https://img.shields.io/badge/Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/🎮-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-### 💻 Tech Stack
+## Jatin
+**jatinxoxo** • he/him
 
+**Creative UI/UX + Full Stack Developer** @upwork who likes to build cool stuff :)
+
+👥 **60** followers • **7** following
+
+🌍 India  
+📧 jatinguptapvt@gmail.com  
+🌐 https://yunogg.vercel.app/
+
+---
+
+## Pinned
+
+*Pin your favorite repositories from your profile settings*
+
+---
+
+## Achievements
+
+🎯 UI wizard by day, anime binge-watcher by night  
+💼 Bringing designs to life with Next.js, TailwindCSS, and React  
+📈 Sometimes building cool bots & dashboards  
+
+---
+
+## Highlights
+
+### 💻 Tech Stack
 ```yaml
 Frontend: [Next.js, React.js, TailwindCSS, HTML5, CSS3]
 Backend: [Node.js, Express, MongoDB, Firebase]
 Design: [Figma, Photoshop, Illustrator]
 Other: [Discord.js, GSAP, Framer Motion]
+```
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinxoxo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinxoxo&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinxoxo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinxoxo&style=flat-square&color=58A6FF" alt="Profile Views" />
+</div>
+
+---
+
+**54 contributions in the last year**
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
