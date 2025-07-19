@@ -11,14 +11,8 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 <sub>Auto-updated via Lanyard API</sub> -->
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1102123627438153738
-?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg
-&theme=dark
-&borderRadius=25px
-&width=800
-&height=280
-&opacity=0.8
-&idleMessage=Chilling...)](https://discord.gg/svm7yjkeBp)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1102123627438153738?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
+
 
 ## ➷ Socials
 
