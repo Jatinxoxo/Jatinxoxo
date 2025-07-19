@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 - 🎨 [Portfolio (Behance)](https://www.behance.net/xdemongraphicz)  
 - 💬 [Discord Server](https://discord.gg/svm7yjkeBp)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)  
-- 📩 Email: jatinguptapvt@gmail.com
+- 📩 jatinguptapvt@gmail.com
 
 ---
 
