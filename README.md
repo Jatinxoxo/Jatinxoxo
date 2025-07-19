@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 <sub>Auto-updated via Lanyard API</sub> -->
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=1e1e2e&borderRadius=10)](https://discord.gg/YOUR_INVITE)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1102123627438153738?theme=dark&bg=1e1e2e&borderRadius=10)](https://discord.gg/svm7yjkeBp )
 ---
 
 ## ➷ Socials
