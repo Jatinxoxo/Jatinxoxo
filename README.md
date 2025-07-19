@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ---
 
-## Discord Pressence ( Under Construction)
+## Discord Presence ( Under Construction)
 
 [![Discord Card](https://discord-card-eight.vercel.app/api/card)](https://discord.com/users/1102123627438153738)
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ---
 
-## 📫 Connect With Me
+## ➷ Socials
 
 [![🎨 Portfolio](https://img.shields.io/badge/-Behance-1d1d1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/xdemongraphicz)
 [![💬 Discord](https://img.shields.io/badge/-Join_My_Server-1d1d1d?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/svm7yjkeBp)
