@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 [![Behance](https://img.shields.io/badge/Behance-1d1d1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/xdemongraphicz)
 [![Discord](https://img.shields.io/badge/Discord-1d1d1d?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/svm7yjkeBp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d1d1d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-1d1d1d.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
 [![Email](https://img.shields.io/badge/Email-1d1d1d?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinguptapvt@gmail.com)
 
 
