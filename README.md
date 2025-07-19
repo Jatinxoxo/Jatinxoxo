@@ -4,12 +4,14 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ---
 
-## Discord Presence ( Under Construction)
+<!-- ## Discord Presence ( Under Construction)
 
 [![Discord Card](https://discord-card-eight.vercel.app/api/card)](https://discord.com/users/1102123627438153738)
 
-<sub>Auto-updated via Lanyard API</sub>
+<sub>Auto-updated via Lanyard API</sub> -->
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1102123627438153738)](https://discord.gg/svm7yjkeBp )
 ---
 
 ## ➷ Socials
