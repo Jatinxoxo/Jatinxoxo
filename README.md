@@ -30,10 +30,10 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ## 📫 Connect With Me
 
-- 🎨 [Portfolio ](https://www.behance.net/xdemongraphicz)  
-- 💬 [Discord Server](https://discord.gg/svm7yjkeBp)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)  
-- 📩 jatinguptapvt@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/xdemongraphicz)
+[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/svm7yjkeBp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jatin_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
+[![Gmail](https://img.shields.io/badge/Email-jatinguptapvt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinguptapvt@gmail.com)
 
 ---
 
