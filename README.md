@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ## ➷ Socials
 
-[![🎨 Portfolio](https://img.shields.io/badge/-Behance-1d1d1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/xdemongraphicz)
-[![💬 Discord](https://img.shields.io/badge/-Join_My_Server-1d1d1d?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/svm7yjkeBp)
-[![💼 LinkedIn](https://img.shields.io/badge/-Jatin_Gupta-1d1d1d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
-[![📩 Email](https://img.shields.io/badge/-jatinguptapvt@gmail.com-1d1d1d?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinguptapvt@gmail.com)
+[![🎨 Portfolio](https://img.shields.io/badge/-1d1d1d?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/xdemongraphicz)
+[![💬 Discord](https://img.shields.io/badge/-💬%20Join_My_Server-1d1d1d?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/svm7yjkeBp)
+[![💼 LinkedIn](https://img.shields.io/badge/-💼%20Jatin_Gupta-1d1d1d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
+[![📩 Email](https://img.shields.io/badge/-📩%20jatinguptapvt@gmail.com-1d1d1d?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinguptapvt@gmail.com)
 
 ---
