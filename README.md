@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jatin (aka Yameteeee)
+# Heya, This is Jatin (aka Yuno)
 
 Welcome to my GitHub! I'm a full-stack developer who loves building bots, automations, and stunning web experiences. Always experimenting — sometimes useful, sometimes cursed... always fun.
 
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ---
 
-## 🟢 Live Discord Status
+## Discord Pressence ( Under Construction)
 
 [![Discord Card](https://discord-card-eight.vercel.app/api/card)](https://discord.com/users/1102123627438153738)
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves building bots, automa
 
 ## 📫 Connect With Me
 
-- 🎨 [Portfolio (Behance)](https://www.behance.net/xdemongraphicz)  
+- 🎨 [Portfolio ](https://www.behance.net/xdemongraphicz)  
 - 💬 [Discord Server](https://discord.gg/svm7yjkeBp)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)  
 - 📩 jatinguptapvt@gmail.com
