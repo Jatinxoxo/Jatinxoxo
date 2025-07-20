@@ -1,4 +1,4 @@
-# Heya, This is Jatin (@Yuno.gg)
+# Heya, This is Jatin (@Yuno)
 
 Welcome to my GitHub! I'm a full-stack developer who loves building bots, automations, and stunning web experiences. Always experimenting — sometimes useful, sometimes cursed... always fun.
 
