@@ -15,12 +15,20 @@ Always experimenting — sometimes useful, sometimes cursed... always fun.
       </a>
     </td>
     <td align="center">
-      <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist">
-        <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist" alt="@Yuno's Playlist" />
-      </a>
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=jatinxoxo&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist">
+  <img width="90%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist" alt="@Yuno's Playlist" />
+</a>
 
 </div>
 
@@ -35,4 +43,4 @@ Always experimenting — sometimes useful, sometimes cursed... always fun.
 
 ---
 
-<sub>🧪 Cards auto-update using Lanyard & Spotify APIs · Styling powered by Vercel + Heroku proxies</sub>
+
