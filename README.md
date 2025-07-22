@@ -1,38 +1,20 @@
 # Heya, This is Jatin (@Y4mee)
 
-Welcome to my GitHub! I'm a full-stack developer who loves building bots, automations, and stunning web experiences.  
-Always experimenting — sometimes useful, sometimes cursed... always fun.
+Welcome to my GitHub! I'm a full-stack developer who loves building bots, automations, and stunning web experiences. Always experimenting — sometimes useful, sometimes cursed... always fun.
 
 ---
 
-<div align="center">
+<!-- ## Discord Presence ( Under Construction)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://discord.gg/svm7yjkeBp">
-        <img src="https://lanyard-profile-readme.vercel.app/api/1102123627438153738?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px" alt="Discord Presence" />
-      </a>
-    </td>
-    <td align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=jatinxoxo&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+[![Discord Card](https://discord-card-eight.vercel.app/api/card)](https://discord.com/users/1102123627438153738)
 
-</div>
+<sub>Auto-updated via Lanyard API</sub> -->
 
----
 
-<div align="center">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1102123627438153738?bg=https://i.pinimg.com/1200x/42/70/0e/42700ecf8c14a8308399294863d8875e.jpg&theme=dark&animated=true&idleMessage=Probably%20chilling...&borderRadius=25px)](https://discord.gg/svm7yjkeBp)
+[![@Yuno's Playlist](https://data-card-for-spotify.herokuapp.com/api/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist)](https://data-card-for-spotify.herokuapp.com/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist)
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist">
-  <img width="90%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3156l7625uwqlk3h3nv4d7ugtcf4&hide_title=true&custom_title=%40Yuno%27s%20Playlist" alt="@Yuno's Playlist" />
-</a>
 
-</div>
-
----
 
 ## ➷ Socials
 
@@ -41,6 +23,6 @@ Always experimenting — sometimes useful, sometimes cursed... always fun.
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-1d1d1d.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-34b5b7226/)
 [![Email](https://img.shields.io/badge/Email-1d1d1d?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinguptapvt@gmail.com)
 
+
+
 ---
-
-
